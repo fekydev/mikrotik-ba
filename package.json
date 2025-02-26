@@ -1,0 +1,23 @@
+{
+  "name": "mikrotik-ba",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fekydev/mikrotik-ba#readme",
+  "bugs": {
+    "url": "https://github.com/fekydev/mikrotik-ba/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fekydev/mikrotik-ba.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "mkrotik-ba-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ssh2": "^1.16.0"
+  }
+}

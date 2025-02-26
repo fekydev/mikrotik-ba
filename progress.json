@@ -1,0 +1,38 @@
+{
+  "192.168.88.1": {
+    "ssh": {
+      "lastIndex": 29,
+      "triedPasswords": [
+        "root",
+        "toor",
+        "admin",
+        "123456",
+        "123123",
+        "admin123'",
+        "password1\"",
+        "abc123\"",
+        "12341234\"",
+        "querty\"",
+        "pass\"",
+        "administrator\"",
+        "raspberry",
+        "test",
+        "uploader",
+        "password",
+        "administrator",
+        "marketing",
+        "12345678",
+        "1234",
+        "12345",
+        "qwerty",
+        "webadmin",
+        "webmaster",
+        "maintaince",
+        "techsupport",
+        "letmein",
+        "logon",
+        "Passw@rd"
+      ]
+    }
+  }
+}
